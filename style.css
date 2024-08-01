@@ -23,14 +23,3 @@
   top: 50px;
   left: 350px;
 }
-
-p {
-  font-size: 5rem;
-  color: white;
-  text-align: center;
-  margin: 0px;
-}
-
-.flag > div p {
-  color: black;
-}
